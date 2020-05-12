@@ -1,2 +1,2 @@
-# SVM_using_pythin
+# SVM_using_python
 Simple SVM implementation using python
